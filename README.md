@@ -14,3 +14,7 @@
 12. Composition vs Inheritance
 13. Context
 14. Styling
+
+----------
+
+GIT COMMIT TEST
